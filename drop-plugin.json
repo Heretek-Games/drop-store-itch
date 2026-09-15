@@ -14,5 +14,29 @@
   "targets": [
     "client"
   ],
-  "entry": "dist/src/index.js"
+  "entry": "dist/src/index.js",
+  "checksum": "3aac3feb4e6b24609e743da41c18ae817f8f4245860c2ee3d4937793b3d01cf2",
+  "files": {
+    ".github/dependabot.yml": "fe156952d1952825377de8e48c90563a3ac19bb95a6e0ced8a2f498a0f20fdf6",
+    ".github/workflows/ci.yml": "654910bbd45b44eb03b681d4dc729687ee6c6617e9204ee6df0434dc70e9a56d",
+    ".gitignore": "e8bc935ce727f1809c792f4c5d26c5fc75ba2b7df7fc9390c56c8892f6a6007f",
+    "AGENTS.md": "23aa50f717b40d30cb753e4387ee284e22ae9873541e4ed42867c41ad2335c4a",
+    "CLAUDE.md": "3b2c8a6a80fe79fa9ee0680b86d2e84ce0b9255d3dc43eccd4e2fce59064c7da",
+    "dist/src/index.d.ts": "160b3654bb221f5df2725c36959e80d90786341bc489c79967de193f70674444",
+    "dist/src/index.js": "3aac3feb4e6b24609e743da41c18ae817f8f4245860c2ee3d4937793b3d01cf2",
+    "dist/test/fixtures/itch.d.ts": "254505dec0eead7e03e84c40e7a5f2eba208263739d56dcecb8bafebafdd6b88",
+    "dist/test/fixtures/itch.js": "193944475fda6981558b99b6e32f75f6dda3d5720ec2a262a6bf9f3d9f8f532a",
+    "dist/test/itch.test.d.ts": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
+    "dist/test/itch.test.js": "94332036ed02242fb8538dacf825fb1ceee74a7bc39709c00feb86ac9669a117",
+    "eslint.config.mjs": "4cdf67d5a07b1a089d8f39e842a7de7532eb519752d60fe5ac706f42fb7bdc6f",
+    "GEMINI.md": "3b2c8a6a80fe79fa9ee0680b86d2e84ce0b9255d3dc43eccd4e2fce59064c7da",
+    "package-lock.json": "723f07edd19d871cbe1033312cf2bedbf3a74a46c8ffdc3d654d75ce8b20e86f",
+    "package.json": "585e9bb20fc9b48acc9e2789d56368cc7d1add6069cbcabedb91e350d1126e90",
+    "README.md": "03f1134d73da158f6c6415e83f41063208bfbeecb8e05875ad07539e8f49bac0",
+    "SECURITY.md": "1ed84c5e2293a1bda1e0d1650df39f5c03dba9a18ee6d8acff78cc10a6897d2d",
+    "src/index.ts": "78b3040823a72894714fb82525ae778312609ccd64e5fdfb1d2840d902f904a7",
+    "test/fixtures/itch.ts": "79fde3d99d07688c302a06bef9c34e01d9f4e16f50e30096f1f5191b35694644",
+    "test/itch.test.ts": "ad8926d366ffaae87dbbe7326df8d92bb7741d9144f3382376bdeb09fe035805",
+    "tsconfig.json": "e67d6d62d5af3c653c4d1af30dea94d529c721708e54bd8609d748be627e79e5"
+  }
 }
