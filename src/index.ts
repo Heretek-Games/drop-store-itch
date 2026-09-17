@@ -249,6 +249,7 @@ export async function detectFromStorage(
 
 export default class ItchPlugin implements ClientPlugin {
   metadata = {
+    apiVersion: 2,
     id: "drop-store-itch",
     name: "itch.io",
     version: "0.1.0",
